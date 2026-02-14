@@ -1,3 +1,2 @@
-a = 10
-b = 20
-print(a>b)
+for i in range(1,11):
+    print(i)
