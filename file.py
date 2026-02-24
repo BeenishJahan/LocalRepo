@@ -1,8 +1,3 @@
-import math
-a = 10000
-b = math.sqrt(a)
-print(f"square root of {a} is {b}")
-
-c = 400
-d = math.sqrt(c)
-print(f"square root of {c} is {d}")
+name = 'Beenish Jahan'
+print(f"Hello {name}")
+print("hello world")
