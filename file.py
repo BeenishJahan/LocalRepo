@@ -1,5 +1,5 @@
 import math
-a = 100
+a = 10000
 b = math.sqrt(a)
 print(f"square root of {a} is {b}")
 
