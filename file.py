@@ -1,3 +1,3 @@
-name = 'name is Beenish Jahan and i want to learn data science'
+name = 'name is Beenish Jahan from faridabad'
 print(f"Heyya my {name}")
 print("hello world")
